@@ -1,0 +1,19 @@
+{
+  "name": "electron-helloworld",
+  "version": "1.0.0",
+  "description": "For more information, please visit https://github.com/caesirekin",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/caesirekin/electron-helloworld",
+  "keywords": [
+    "Electron",
+    "HelloWorld"
+  ],
+  "author": "Caesire Kin",
+  "license": "LGPL-3.0",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
