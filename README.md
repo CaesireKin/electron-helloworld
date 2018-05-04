@@ -23,7 +23,7 @@
             "runtimeExecutable" "${workspaceRoot}/node_modules/.bin/electron",
             "windows": {
                 "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/electron.cmd"
-            }
+            },
             "args": ["."]
         }
     ]
